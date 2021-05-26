@@ -1,0 +1,2 @@
+C:\Users\bras-\OneDrive\デスクトップ\sample\Debug\sample.exe
+C:\Users\bras-\OneDrive\デスクトップ\sample\Debug\sample.pdb
